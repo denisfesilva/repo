@@ -8,5 +8,5 @@ app.use(cors());
 app.use(express.json());
 app.use(routes);
 
-app.listen(3333); //Escuto a porta 3333 - backend
+app.listen(3333); //Escuto a porta 3333 - backend.
 
