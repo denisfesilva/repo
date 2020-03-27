@@ -1,26 +1,17 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, {useState} from 'react';
+
+import './global.css';
+import Logon from './pages/Logon';
+// Componente React,  JSX ( JavaScript XML)
+// Componente em React é uma função que retorna HTML também chamado de JSX
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          CyberPunk 2077
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Logon />
   );
 }
 
 export default App;
+
+//  <Header title="Semana Omnistack 11" /> 
