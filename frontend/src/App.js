@@ -1,14 +1,14 @@
-import React, {useState} from 'react';
+import React from 'react';
 
 import './global.css';
-import Logon from './pages/Logon';
+import Routes from './routes';
 // Componente React,  JSX ( JavaScript XML)
 // Componente em React é uma função que retorna HTML também chamado de JSX
 
 function App() {
 
   return (
-    <Logon />
+    <Routes />
   );
 }
 
