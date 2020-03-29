@@ -1,0 +1,66 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/denis/Workspace/Oministack11
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git show :mobile/App.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/App.js
+> git cat-file -s 58dce60d36655a9b9c0f0729bfc0d6cf82e8c2ac
+> git check-ignore -v -z --stdin
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :mobile/src/pages/Incidents/index.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/pages/Incidents/index.js
+> git check-ignore -v -z --stdin
+> git show :mobile/src/pages/Incidents/styles.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/pages/Incidents/styles.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :mobile/src/pages/Details/index.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/pages/Details/index.js
+> git check-ignore -v -z --stdin
+> git show :mobile/src/pages/Details/styles.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/pages/Details/styles.js
+> git check-ignore -v -z --stdin
+> git show :mobile/App.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/App.js
+> git cat-file -s 58dce60d36655a9b9c0f0729bfc0d6cf82e8c2ac
+> git show :mobile/src/pages/Incidents/index.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/pages/Incidents/index.js
+> git show :mobile/src/routes.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/routes.js
+> git check-ignore -v -z --stdin
+> git show :mobile/src/pages/Details/index.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/pages/Details/index.js
+> git show :mobile/src/routes.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/routes.js
+> git show :mobile/src/pages/Incidents/index.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/pages/Incidents/index.js
+> git show :mobile/src/routes.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/routes.js
+> git show :mobile/App.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/App.js
+> git cat-file -s 58dce60d36655a9b9c0f0729bfc0d6cf82e8c2ac
+> git show :mobile/src/routes.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/routes.js
+> git show :mobile/App.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/App.js
+> git cat-file -s 58dce60d36655a9b9c0f0729bfc0d6cf82e8c2ac
+> git show :mobile/src/routes.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/routes.js
+> git show :mobile/App.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/App.js
+> git cat-file -s 58dce60d36655a9b9c0f0729bfc0d6cf82e8c2ac
+> git show :mobile/src/routes.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/src/routes.js
+> git show :mobile/App.js
+> git ls-files --stage -- /home/denis/Workspace/Oministack11/mobile/App.js
+> git cat-file -s 58dce60d36655a9b9c0f0729bfc0d6cf82e8c2ac

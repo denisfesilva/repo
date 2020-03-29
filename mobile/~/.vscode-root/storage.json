@@ -574,8 +574,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1453,8 +1452,8 @@
             "backupPath": "/home/denis/Workspace/Oministack11/mobile/~/.vscode-root/Backups/2426e03bd82bc211fa6dea7316d25a04",
             "uiState": {
                 "mode": 0,
-                "x": 449,
-                "y": 182,
+                "x": 2,
+                "y": 260,
                 "width": 1024,
                 "height": 768
             }
