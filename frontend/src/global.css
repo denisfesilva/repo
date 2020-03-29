@@ -18,6 +18,15 @@ input, textarea, button{
     
 }
 
+form textarea{
+    min-width: 100%;
+    min-height: 160px;
+    color: #333;
+    border: 1px solid #dcdce6;
+    border-radius: 8px;
+    padding: 0 24px;
+    line-height: 24px;
+}
 button{
     cursor: pointer;
 }
